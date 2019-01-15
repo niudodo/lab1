@@ -33,11 +33,9 @@ body {
      z-index: -1;
 }
 .project{
-	background-color: gray;
-	margin-left: 20px;
+	margin-left: 50px;
 }
 img.thumbnail{
-	widith:50px;
-	height:100px;
-	border:1px solid #434343;
+	widith:200px;
+	height:200px;
 }
